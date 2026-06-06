@@ -1,26 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rooma Siddiqui
 
-# About Me
- I’m **Rooma Siddiqui**—a dedicated technology enthusiast with a focus on Data Science and Machine Learning. I am passionate about continuous learning, innovation, and sharing knowledge within the tech community.
+I build AI applications — chatbots, automation pipelines, and ML models. Strong with Python, low-code tools, and workflow automation. I work on freelance ML and automation projects.
 
-## Skills & Interests
+## What I Work With
 
-- **Programming Languages:** Python, Java, SQL
-- **Technologies & Tools:** 
-  - **Data & AI:** data analysis, machine learning, and artificial intelligence.
-  - **Frameworks:** Streamlit and Django for building web applications.
-  - **Libraries:** Proficient in using libraries such as NumPy for numerical computations.
-- **Special Interests:** Data Science, Machine Learning, Web Development
-- **Professional Development:** Continuously enhancing skills through various certifications and courses in data science and AI.
+**Languages:** Python, Java, SQL  
+**Low-Code & Automation:** n8n, Voiceflow, Zapier, HeyGen, Make  
+**ML & AI:** TensorFlow, PyTorch, Scikit-Learn, Keras, LangChain, RAG, Hugging Face  
+**Backend:** FastAPI, Django, Flask, REST APIs  
+**Web Scraping & Automation:** Selenium, BeautifulSoup  
+**Web:** Streamlit, HTML, CSS  
+**Tools:** Git, Docker, Notion, Power BI
 
-## Get in Touch
+## Recent Work
 
-- **LinkedIn:** [Rooma Siddiqui](https://www.linkedin.com/in/rooma-siddiqui-aa92872a1/)
-- **Email:** [roomasiddiqui2003@gmail.com](mailto:roomasiddiqui2003@gmail.com)
+- **AI Video & Social Media Automation** — HeyGen + n8n workflow for automated video creation and cross-platform publishing
+- **Auto Pitch Deck Video** — Upload PPTX, get back AI-generated pitch video with HeyGen avatar
+- **Meeting Transcription Pipeline** — Automated meeting transcription with AI summaries to Notion/Google Sheets
+- **AI Chatbots** — LangChain-based chatbots with RAG, persistent memory, and custom knowledge bases
+- **BU Study Assistant** — Chrome extension for Bahria University students AI study tools (flashcards, summaries, quizzes, chat) plus CGPA calculator & bulk notes download
 
-## Let’s Connect
+## Education
 
-I’m always open to connecting with fellow tech enthusiasts, exploring new opportunities, and discussing innovative ideas. Feel free to reach out to me via the links above or drop me an email!
+BS Computer Science — Bahria University 
 
----
+## Let's Connect
 
+[Portfolio](https://rooma.me) · [LinkedIn](https://www.linkedin.com/in/rooma-siddiqui/) · [GitHub](https://github.com/rooma-siddiqui) · [Email](mailto:roomasiddiqui2003@gmail.com)
