@@ -1,29 +1,57 @@
-# Hi, I'm Rooma Siddiqui
+<h1 align="center">Rooma Siddiqui</h1>
 
-I build AI applications — chatbots, automation pipelines, and ML models. Strong with Python, low-code tools, and workflow automation. I work on freelance ML and automation projects.
+<p align="center"><b>Full-Stack AI Developer · Automation</b></p>
 
-## What I Work With
+<p align="center">I help founders and agencies build AI products and automate the work that slows them down.</p>
 
-**Languages:** Python, Java, SQL  
-**Low-Code & Automation:** n8n, Voiceflow, Zapier, HeyGen, Make  
-**ML & AI:** TensorFlow, PyTorch, Scikit-Learn, Keras, LangChain, RAG, Hugging Face  
-**Backend:** FastAPI, Django, Flask, REST APIs  
-**Web Scraping & Automation:** Selenium, BeautifulSoup  
-**Web:** Streamlit, HTML, CSS  
-**Tools:** Git, Docker, Notion, Power BI
+<p align="center">
+  <a href="https://rooma.me"><img src="https://img.shields.io/badge/Portfolio-rooma.me-111111?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rooma-siddiqui/"><img src="https://img.shields.io/badge/LinkedIn-Rooma%20Siddiqui-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:roomasiddiqui2003@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## Recent Work
+---
 
-- **AI Video & Social Media Automation** — HeyGen + n8n workflow for automated video creation and cross-platform publishing
-- **Auto Pitch Deck Video** — Upload PPTX, get back AI-generated pitch video with HeyGen avatar
-- **Meeting Transcription Pipeline** — Automated meeting transcription with AI summaries to Notion/Google Sheets
-- **AI Chatbots** — LangChain-based chatbots with RAG, persistent memory, and custom knowledge bases
-- **BU Study Assistant** — Chrome extension for Bahria University students AI study tools (flashcards, summaries, quizzes, chat) plus CGPA calculator & bulk notes download
+Hi, I'm Rooma, a full-stack AI developer from Karachi. I help founders, agencies and small teams turn ideas into working products: a web app with AI at its core, a chatbot that actually knows their business, or a workflow that gives their team hours back every week.
+
+I care about the unglamorous parts too. Clean APIs, proper documentation, and a handover that lets your team run things without needing me.
+
+**Right now:** AI Engineer at a startup.
+
+## What I build
+
+- **Full-stack web apps.** React and Next.js on the front, FastAPI, Django or Node.js behind it, PostgreSQL or Supabase underneath, shipped with Docker.
+- **AI features.** RAG chatbots trained on your own documents, LLM integrations, and ML models for sales and demand forecasting.
+- **Business automation.** Lead follow-ups, CRM pipelines, meeting notes and content publishing with n8n, GoHighLevel and Python.
+- **APIs and integrations.** FastAPI and Django backends that connect the tools you already use, so data stops being copied by hand.
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,react,nextjs,nodejs,tailwind,html,css,fastapi,django,flask,postgres,supabase,docker,tensorflow,pytorch,sklearn,git,notion&perline=10" alt="Python, JavaScript, React, Next.js, Node.js, Tailwind CSS, HTML, CSS, FastAPI, Django, Flask, PostgreSQL, Supabase, Docker, TensorFlow, PyTorch, scikit-learn, Git, Notion">
+</p>
+
+| Area | Tools |
+|---|---|
+| Frontend | React, Next.js, Tailwind CSS, JavaScript, HTML, CSS, Streamlit, Chrome extensions |
+| Backend | Python, Node.js, FastAPI, Django, Flask, REST APIs, Docker |
+| Database | PostgreSQL, Supabase, SQL |
+| AI / ML | LangChain, RAG, OpenAI, Hugging Face, TensorFlow, PyTorch, Keras, scikit-learn |
+| Automation | n8n, Make, Zapier, GoHighLevel, Voiceflow, HeyGen |
+| Data | Pandas, NumPy, Power BI, Selenium, BeautifulSoup |
+
+## Recent work
+
+- **AI video and social media automation:** an n8n workflow that creates videos with HeyGen and publishes them across platforms
+- **Auto pitch deck video:** upload a PPTX and get back a pitch video presented by a HeyGen avatar
+- **Meeting transcription pipeline:** records meetings, writes AI summaries and saves them to Notion or Google Sheets
+- **AI chatbots:** LangChain chatbots with RAG, persistent memory and custom knowledge bases
+- **BU Study Assistant:** a Chrome extension that gives Bahria University students AI study tools (flashcards, summaries, quizzes, chat), a CGPA calculator and bulk notes download
 
 ## Education
 
-BS Computer Science — Bahria University 
+BS Computer Science, Bahria University (graduated 2026)
 
-## Let's Connect
+## Let's work together
 
-[Portfolio](https://rooma.me) · [LinkedIn](https://www.linkedin.com/in/rooma-siddiqui/) · [GitHub](https://github.com/rooma-siddiqui) · [Email](mailto:roomasiddiqui2003@gmail.com)
+Have a product to build or a process that eats up your team's time? Take a look at [rooma.me](https://rooma.me) or send me an [email](mailto:roomasiddiqui2003@gmail.com).
